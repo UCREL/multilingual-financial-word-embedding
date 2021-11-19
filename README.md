@@ -1,1 +1,1 @@
-# multilingual-financial-word-embedding
+# multilingual-financial-word-embeddings
